@@ -1,42 +1,124 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <title>Warren Ahner</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Warren Ahner's Personal Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+        }
+        .sidebar {
+            width: 200px;
+            background-color: #f4f4f4;
+            padding: 15px;
+            height: 100vh;
+            box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+        }
+        .content {
+            flex: 1;
+            padding: 20px;
+        }
+        .sidebar a {
+            display: block;
+            padding: 10px 15px;
+            color: #333;
+            text-decoration: none;
+        }
+        .sidebar a:hover {
+            background-color: #ddd;
+        }
+    </style>
 </head>
-
 <body>
+    <div class="sidebar">
+        <h2>Warren Ahner</h2>
+        <a href="#media">Media Appearances</a>
+        <a href="#publications">Publications</a>
+        <a href="#patents">Patents</a>
+        <a href="#hobbies">Hobbies</a>
+        <a href="#recommendations">Recommendations / Current Things</a>
+        <a href="#contact">Contact</a>
+    </div>
+    <div class="content">
+        <h1>Welcome to late 1990s brutalist webdesign</h1>
+        <section id="media">
+            <h2>Media Appearances</h2>
+            <p>    
+                <h4> National Nightly News </h4>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/aSj_pFh2mo8?si=JlWSaiQ4ivWofSUl&amp;start=71" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </p>
 
-    <H2> National Nightly News </H2>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/aSj_pFh2mo8?si=JlWSaiQ4ivWofSUl&amp;start=71" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-    <H2> Co-Produced and Starred in Vehicle Privacy Special </H2>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/7kUJhWUm3JA?si=eA-FlRdmgBvLextN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-    <H2> Podcast appearances </H2>
-    <a href="https://www.autonocast.com/blog/2017/9/2/22-why-simulation-matters-to-autonomy">Why Simulation Matters To Autonomy</a>
-
-
-    <H2> Patents </H2>
-    <a href="https://patents.justia.com/patent/20190271614">High-Value Test Generation For Autonomous Vehicles</a>
-    <br><br>
-    <a href="https://patents.justia.com/patent/20190278698">Autonomous Vehicle Simulation And Testing</a>
-
-    <br><br>
-    <H2> World Records </H2>
-    <a href="https://www.thedrive.com/tech/5301/how-we-broke-the-electric-and-autonomous-cannonball-run-records">How We Broke The Electric and Autonomous Cannonball Run Records</a>
-
-
-
-    <H2> Self Racing Cars</H2>
-    <a href="https://www.wired.com/story/my-wild-ride-in-robot-race-car/">My Wild Ride in a Robot Race Car</a>
-
-
-
-
-    <H2> Internet Thought Leader</H2>
-    <a href="https://www.quora.com/Do-you-believe-that-a-supercar-like-the-new-Tesla-Roadster-would-significantly-benefit-Teslas-business-or-is-it-more-for-ego-as-suggested-by-automotive-tech-expert-Warren-Ahner">People claim I am an Automotive Tech Expert</a>
+            <p>
+                <h4> Co-Produced on Vehicle Privacy </h4>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/7kUJhWUm3JA?si=eA-FlRdmgBvLextN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        
+                <h4> Podcast appearances </h4>
+                <a href="https://www.autonocast.com/blog/2017/9/2/22-why-simulation-matters-to-autonomy">The Autonocast - Why Simulation Matters To Autonomy
+                </a>
 
 
+        </section>
+        
 
+        <br><br>
 
+        <section id="publications">
+            <h2>Publications</h2>
+            <p><a href="WhitePapers/adas.pdf">How to Accelerate Development And Advance Testing Accuracy for ADAS Systems (PDF)</a></p>
+        
+            <p><a href="WhitePapers/adas.html">How to Accelerate Development And Advance Testing Accuracy for ADAS Systems (HTML)</a></p>
+
+            <p><a href="worldsim-presentation.pdf">WorldSim general informational sales assets (PDF)</a></p>
+        </section>
+
+        <br><br>
+
+        <section id="patents">
+            <h2>Patents</h2>
+            <p>
+            <a href="https://patents.justia.com/patent/20190271614">High-Value Test Generation For Autonomous Vehicles</a>
+            
+            <br>
+            
+             <a href="https://patents.justia.com/patent/20190278698">Autonomous Vehicle Simulation And Testing</a>
+            </p>
+        </section>
+
+        <br><br>
+
+        <section id="hobbies">
+            <h2>Hobbies</h2>
+            <p>   
+            <h4> World Records </h4>
+            <a href="https://www.thedrive.com/tech/5301/how-we-broke-the-electric-and-autonomous-cannonball-run-records">How We Broke The Electric and Autonomous Cannonball Run Records</a>
+
+            <br>
+
+            <h4> Self Racing Cars</h4>
+            <a href="https://www.wired.com/story/my-wild-ride-in-robot-race-car/">My Wild Ride in a Robot Race Car</a></p>
+        </section>
+
+        <br><br>
+
+        <section id="recommendations">
+            <h2>Recommendations / Current Things </h2>
+            <p>Currently reading Iian Banks - The Culture series, fantastic books so far.</p>
+        </section>
+
+        <br><br>
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>
+                Twitter :  @warrenahner <br>
+                Signal  :  warren.8675309 <br>
+                Gmail   :  warren.d.ahner <br>
+            warren.d.ahner at the usual googly address, or @warrenahner on twitter</p>
+        </section>
+    </div>
 </body>
 </html>
