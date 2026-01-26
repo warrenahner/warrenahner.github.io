@@ -7,7 +7,7 @@ order: 1
 
 For the past decade, I've been obsessed with making machines move without human hands on the wheel. I've built simulation platforms that test autonomous vehicles before they hit real roads, written patents on how to break AI drivers in creative ways, and — when the simulations got boring — started breaking records with real cars.
 
-**Currently:** VP of SRE at [NScale](https://nscale.com), building infrastructure for the AI era.
+**Currently:** VP of SRE at an AI infrastructure company (not disclosed).
 
 **Previously:** Founded and ran an AI simulation company for 10 years — building the systems that let engineers crash thousands of virtual cars so real ones don't.
 
