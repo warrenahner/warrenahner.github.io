@@ -37,7 +37,7 @@ goatcounter:
   id: ""
 
 # Theme Mode (light/dark/auto)
-theme_mode: auto
+theme_mode: dark
 
 # Avatar (profile image)
 avatar: "/assets/img/avatar.jpg"
