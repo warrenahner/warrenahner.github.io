@@ -9,9 +9,11 @@ For the past decade, I've been obsessed with making machines move without human 
 
 **Currently:** VP of SRE at an AI infrastructure company (not disclosed).
 
-**Previously:** Founded and ran an AI simulation company for 10 years — building the systems that let engineers crash thousands of virtual cars so real ones don't.
+**Previously:** Built AI supercomputers at Oracle.
 
-**Before that:** Automotive cybersecurity, cloud infrastructure, and security engineering.
+**Before that:** Founded and ran an AI simulation company for 10 years — building the systems that let engineers crash thousands of virtual cars so real ones don't.
+
+**Even before that:** Automotive cybersecurity, cloud infrastructure, and security engineering.
 
 ---
 
