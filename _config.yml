@@ -1,0 +1,118 @@
+# al-folio theme configuration
+# Site settings
+title: Warren Ahner
+first_name: Warren
+middle_name: 
+last_name: Ahner
+email: warren.d.ahner@gmail.com
+description: >
+  Technology executive, autonomous vehicle expert, and world record holder.
+  VP of SRE at NScale. Former autonomy executive.
+footer_text: 
+keywords: autonomous vehicles, AI, technology executive, Tesla FSD, simulation
+lang: en
+icon: ⚡
+
+url: https://warrenahner.com
+baseurl: ""
+
+# Theme
+remote_theme: alshedivat/al-folio
+
+# Social integration
+github_username: warrenahner
+twitter_username: warrenahner
+linkedin_username: warrenahner
+
+# -----------------------------------------------------------------------------
+# Layout
+# -----------------------------------------------------------------------------
+navbar_fixed: true
+footer_fixed: false
+search_enabled: false
+socials_in_search: false
+
+# Dark Mode
+color_scheme: auto
+
+# Pagination
+pagination:
+  enabled: false
+
+# -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
+collections:
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /news/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: page
+
+# -----------------------------------------------------------------------------
+# Jekyll settings
+# -----------------------------------------------------------------------------
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: false
+      start_line: 1
+
+# Includes & Coverage
+include: ['_pages']
+exclude:
+  - bin/
+  - CONTRIBUTING.md
+  - CUSTOMIZE.md
+  - Dockerfile
+  - docker-compose.yml
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - package.json
+  - README.md
+  - vendor
+
+plugins:
+  - jekyll-archives
+  - jekyll-email-protect
+  - jekyll-feed
+  - jekyll-get-json
+  - jekyll-imagemagick
+  - jekyll-jupyter-notebook
+  - jekyll-link-attributes
+  - jekyll-minifier
+  - jekyll-paginate-v2
+  - jekyll-regex-replace
+  - jekyll-scholar
+  - jekyll-sitemap
+  - jekyll-toc
+  - jekyll-twitter-plugin
+  - jemoji
