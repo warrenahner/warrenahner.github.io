@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Technology Executive • Autonomous Vehicle Expert • World Record Holder
+subtitle: I build things that drive themselves.
 
 profile:
   align: right
@@ -12,31 +12,41 @@ profile:
     <p>San Jose, CA</p>
     <p>VP of SRE @ NScale</p>
 
-news: true
+news: false
 selected_papers: false
 social: true
 ---
 
-I'm a technology executive with deep expertise in autonomous vehicles, AI simulation, and infrastructure at scale. Currently serving as **VP of SRE at NScale**, a neocloud provider.
+For the past decade, I've been obsessed with making machines move without human hands on the wheel. I've built simulation platforms that test autonomous vehicles before they hit real roads, written patents on how to break AI drivers in creative ways, and — when the simulations got boring — started breaking records with real cars.
 
-Previously, I held autonomy executive roles at major automakers, where I led development of simulation platforms for autonomous vehicle testing. I hold multiple patents in AV simulation and testing methodologies.
+**Currently:** VP of SRE at [NScale](https://nscale.com), building infrastructure for the AI era.
 
-## World Records
+**Previously:** Led autonomy simulation at a major automaker. Built the systems that let engineers crash thousands of virtual cars so real ones don't.
 
-**🏆 First Zero-Intervention Tesla FSD Coast-to-Coast (January 2026)**
+---
 
-Alongside Alex Roy and Paul Pham, I completed the first-ever zero-intervention Tesla Full Self-Driving trip from Los Angeles to New York City—3,081 miles in 58 hours with absolutely no human intervention, not even during charging stops. [Read the exclusive coverage in The Drive →](https://www.thedrive.com/news/a-tesla-actually-drove-itself-from-los-angeles-to-new-york-exclusive)
+## The Record That Took 9 Years
 
-**Previous Records:**
-- [Electric and Autonomous Cannonball Run Records (2017)](https://www.thedrive.com/tech/5301/how-we-broke-the-electric-and-autonomous-cannonball-run-records)
+In 2016, Elon Musk promised a Tesla would drive itself coast-to-coast. In January 2026, we finally made it happen.
 
-## Featured In
+**3,081 miles. 58 hours. Zero interventions.**
 
-- **NBC Nightly News** — Featured segment on autonomous vehicle technology
-- **WIRED** — [My Wild Ride in a Robot Race Car](https://www.wired.com/story/my-wild-ride-in-robot-race-car/)
-- **The Autonocast** — [Why Simulation Matters To Autonomy](https://www.autonocast.com/blog/2017/9/2/22-why-simulation-matters-to-autonomy)
+With Alex Roy and Paul Pham, I completed the first zero-intervention Tesla FSD trip from LA to NYC. Not a single touch of the wheel — not even during charging stops. We drove straight into a Midwest winter storm. FSD handled it.
 
-## Patents
+> "CRAZIEST events in snow – but FSD did it! Snow performance and recovery is unreal." — Alex Roy
 
-- [High-Value Test Generation For Autonomous Vehicles](https://patents.justia.com/patent/20190271614)
-- [Autonomous Vehicle Simulation And Testing](https://patents.justia.com/patent/20190278698)
+📰 [The Drive covered it exclusively →](https://www.thedrive.com/news/a-tesla-actually-drove-itself-from-los-angeles-to-new-york-exclusive)
+
+**Previous records:**
+- [Electric and Autonomous Cannonball Run (2017)](https://www.thedrive.com/tech/5301/how-we-broke-the-electric-and-autonomous-cannonball-run-records)
+- [My Wild Ride in a Robot Race Car — WIRED](https://www.wired.com/story/my-wild-ride-in-robot-race-car/)
+
+---
+
+## The Boring Stuff (That Actually Matters)
+
+**Patents:**
+- [High-Value Test Generation For Autonomous Vehicles](https://patents.justia.com/patent/20190271614) — Finding the edge cases that break self-driving cars
+- [Autonomous Vehicle Simulation And Testing](https://patents.justia.com/patent/20190278698) — Making virtual worlds realistic enough to trust
+
+**Media:** NBC Nightly News, WIRED, The Drive, The Autonocast
