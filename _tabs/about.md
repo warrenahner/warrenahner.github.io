@@ -3,58 +3,54 @@ icon: fas fa-user
 order: 1
 ---
 
-# About Me
+# I build things that drive themselves.
 
-I'm a technology executive with deep expertise in autonomous vehicles, AI simulation, and infrastructure at scale. Currently serving as **VP of SRE at NScale**, a neocloud provider.
+For the past decade, I've been obsessed with making machines move without human hands on the wheel. I've built simulation platforms that test autonomous vehicles before they hit real roads, written patents on how to break AI drivers in creative ways, and — when the simulations got boring — started breaking records with real cars.
 
-Previously, I held autonomy executive roles at major automakers, where I led development of simulation platforms for autonomous vehicle testing. I hold multiple patents in AV simulation and testing methodologies.
+**Currently:** VP of SRE at [NScale](https://nscale.com), building infrastructure for the AI era.
+
+**Previously:** Led autonomy simulation at a major automaker. Built the systems that let engineers crash thousands of virtual cars so real ones don't.
 
 ---
 
-## World Records
+## The Record That Took 9 Years
 
-### 🏆 First Zero-Intervention Tesla FSD Coast-to-Coast (January 2026)
+In 2016, Elon Musk promised a Tesla would drive itself coast-to-coast. In January 2026, we finally made it happen.
 
 ![FSD Cannonball Run 2026](/assets/img/fsd-cannonball-2026.jpg){: .rounded-10 w="700" }
-_The team during the coast-to-coast run_
+_Somewhere between "this is amazing" and "holy shit it's snowing"_
 
-Alongside **Alex Roy** and **Paul Pham**, I completed the first-ever zero-intervention Tesla Full Self-Driving trip from Los Angeles to New York City.
+**3,081 miles. 58 hours. Zero interventions.**
 
-| Stat | Value |
-|------|-------|
-| Distance | 3,081 miles |
-| Time | 58 hours, 22 minutes |
-| Interventions | **Zero** |
-| Hardware | Tesla Model S, HW4, FSD v14.2.2.3 |
+With Alex Roy and Paul Pham, I completed the first zero-intervention Tesla FSD trip from LA to NYC. Not a single touch of the wheel — not even during charging stops. When we accidentally left a team member at a Pennsylvania rest stop, we drove 90 minutes out of the way to pick him up rather than disengage.
 
-Not even during charging stops did anyone touch the controls. When a team member was stranded at a Pennsylvania rest stop, we drove a 90-minute detour to pick him up rather than disengage FSD.
+We drove straight into a Midwest winter storm. FSD handled it.
 
-> "CRAZIEST events in snow – but FSD did it! Holy s**t. Snow performance and recovery is unreal."  
-> — Alex Roy
+> "CRAZIEST events in snow – but FSD did it! Snow performance and recovery is unreal."
 
-📰 [Read the exclusive coverage in The Drive →](https://www.thedrive.com/news/a-tesla-actually-drove-itself-from-los-angeles-to-new-york-exclusive)
+📰 [The Drive covered it exclusively →](https://www.thedrive.com/news/a-tesla-actually-drove-itself-from-los-angeles-to-new-york-exclusive)
+
+This wasn't my first rodeo — I was part of the team that set the [Electric and Autonomous Cannonball records back in 2017](https://www.thedrive.com/tech/5301/how-we-broke-the-electric-and-autonomous-cannonball-run-records). Also got to ride shotgun in a [robot race car for WIRED](https://www.wired.com/story/my-wild-ride-in-robot-race-car/).
 
 ---
 
-### Previous Records
+## The Boring Stuff (That Actually Matters)
 
-- [Electric and Autonomous Cannonball Run Records (2017)](https://www.thedrive.com/tech/5301/how-we-broke-the-electric-and-autonomous-cannonball-run-records)
-- [My Wild Ride in a Robot Race Car — WIRED](https://www.wired.com/story/my-wild-ride-in-robot-race-car/)
+**Patents:**
+- [High-Value Test Generation For Autonomous Vehicles](https://patents.justia.com/patent/20190271614) — How to find the edge cases that break self-driving cars
+- [Autonomous Vehicle Simulation And Testing](https://patents.justia.com/patent/20190278698) — Making virtual worlds realistic enough to trust
 
----
-
-## Patents
-
-- [High-Value Test Generation For Autonomous Vehicles](https://patents.justia.com/patent/20190271614)
-- [Autonomous Vehicle Simulation And Testing](https://patents.justia.com/patent/20190278698)
+**Media:** NBC Nightly News, WIRED, The Drive, The Autonocast
 
 ---
 
-## Contact
+## Say Hi
 
-| Platform | Handle |
+I'm always up for talking about autonomy, simulation, infrastructure, or why your FSD version is better/worse than mine.
+
+| | |
 |----------|--------|
-| Twitter/X | [@warrenahner](https://twitter.com/warrenahner) |
-| Signal | warren.8675309 |
-| Email | warren.d.ahner@gmail.com |
-| Location | San Jose, CA |
+| **Twitter/X** | [@warrenahner](https://twitter.com/warrenahner) |
+| **Signal** | warren.8675309 |
+| **Email** | warren.d.ahner@gmail.com |
+| **IRL** | San Jose, CA |
