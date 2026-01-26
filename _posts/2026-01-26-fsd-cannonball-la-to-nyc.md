@@ -33,7 +33,7 @@ The rules were simple: nobody touches the wheel. Not to correct a lane change. N
 
 - **Alex Roy** — Cannonball legend, general partner at NIVC, the guy who's been trying to prove Musk right for almost a decade
 - **Paul Pham** — FSD obsessive who knows every quirk of every version
-- **Me** — Former autonomy exec, here to see if my simulation work actually translates to real roads
+- **Me** — Founded an AI simulation company, here to see if a decade of simulation work actually translates to real roads
 
 ## The Weather
 

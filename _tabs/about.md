@@ -9,7 +9,9 @@ For the past decade, I've been obsessed with making machines move without human 
 
 **Currently:** VP of SRE at [NScale](https://nscale.com), building infrastructure for the AI era.
 
-**Previously:** Led autonomy simulation at a major automaker. Built the systems that let engineers crash thousands of virtual cars so real ones don't.
+**Previously:** Founded and ran an AI simulation company for 10 years — building the systems that let engineers crash thousands of virtual cars so real ones don't.
+
+**Before that:** Automotive cybersecurity, cloud infrastructure, and security engineering.
 
 ---
 
