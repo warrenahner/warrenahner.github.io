@@ -4,8 +4,8 @@ date: 2017-09-02 12:00:00 -0700
 categories: [Media, Podcasts]
 tags: [simulation, autonomous vehicles, podcast]
 image:
-  path: /assets/img/simulation-autonocast.png
-  alt: Autonomous vehicle simulation visualization
+  path: /assets/img/simulation-autonocast-new.png
+  alt: Autonomous vehicle simulation control room
 ---
 
 I joined The Autonocast to talk about why simulation is critical for autonomous vehicle development — and why you can't just test your way to safety with real cars.

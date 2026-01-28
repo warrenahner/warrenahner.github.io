@@ -4,8 +4,8 @@ date: 2019-08-22 12:00:00 -0700
 categories: [Publications, Patents]
 tags: [patents, simulation, testing, autonomous vehicles]
 image:
-  path: /assets/img/av-testing-patents.png
-  alt: Autonomous vehicle testing framework blueprint
+  path: /assets/img/av-testing-patents-new.png
+  alt: Autonomous vehicle testing and validation
 ---
 
 I was granted two patents on autonomous vehicle testing. Both are about the same fundamental problem: how do you know a self-driving car is actually safe?

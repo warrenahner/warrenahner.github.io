@@ -4,8 +4,8 @@ date: 2018-03-20 18:30:00 -0700
 categories: [Media, Television]
 tags: [autonomous vehicles, nbc, television]
 image:
-  path: /assets/img/nbc-news-av.png
-  alt: NBC Nightly News autonomous vehicle segment
+  path: /assets/img/nbc-news-av-new.png
+  alt: TV news broadcast about autonomous vehicles
 ---
 
 I appeared on NBC Nightly News to discuss where autonomous vehicle technology was headed — and what still needed to happen before self-driving cars would be ready for regular people.

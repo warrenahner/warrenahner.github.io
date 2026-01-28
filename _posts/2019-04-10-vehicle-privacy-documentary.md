@@ -4,8 +4,8 @@ date: 2019-04-10 12:00:00 -0700
 categories: [Media, Documentary]
 tags: [privacy, connected cars, documentary]
 image:
-  path: /assets/img/vehicle-privacy.png
-  alt: Connected car data surveillance visualization
+  path: /assets/img/vehicle-privacy-new.png
+  alt: Connected car privacy and data collection concerns
 ---
 
 I co-produced an investigation into vehicle data privacy. The findings were... not great.

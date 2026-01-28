@@ -27,6 +27,9 @@ FSD v14.2.2.3 changed that.
 **Time:** 58 hours, 22 minutes  
 **Interventions:** Zero  
 
+![Starting at the Portofino Inn](/assets/img/cannonball-start-portofino.jpg)
+*The start: Portofino Inn, Redondo Beach — traditional Cannonball finish line*
+
 The rules were simple: nobody touches the wheel. Not to correct a lane change. Not to speed up for a pass. Not even during charging stops.
 
 ## The Team
@@ -46,6 +49,9 @@ The route took us on I-10 through Arizona, then I-40 toward Oklahoma City and St
 Snow squalls. Icy roads. Visibility that dropped to nothing.
 
 FSD kept driving.
+
+![Stopped in the snow](/assets/img/cannonball-snow-stop.jpg)
+*FSD handled conditions that would have made us intervene in any previous version*
 
 > "CRAZIEST events in snow – but FSD did it! Holy s**t. Snow performance and recovery is unreal."
 

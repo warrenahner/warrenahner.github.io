@@ -4,8 +4,8 @@ date: 2018-06-15 12:00:00 -0700
 categories: [Records, Autonomous Vehicles]
 tags: [roborace, autonomous racing, wired]
 image:
-  path: /assets/img/robot-race-car.png
-  alt: Autonomous race car at speed
+  path: /assets/img/robot-race-car-new.png
+  alt: Roborace autonomous electric race car
 ---
 
 WIRED sent me to ride shotgun in an autonomous race car. It was terrifying in the best possible way.
