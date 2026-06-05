@@ -5,14 +5,14 @@ permalink: /privacy-policy/
 toc: true
 ---
 
-**App:** OpenTranscript
+**App:** OpenScribe
 **Developer:** Warren Ahner (individual developer)
 **Effective date:** June 4, 2026
 **Last updated:** June 4, 2026
 
 ## Summary
 
-OpenTranscript is a free app built for the community. It does **not** collect,
+OpenScribe is a free app built for the community. It does **not** collect,
 track, sell, or share any personal information. There are no analytics, no
 advertising, no third-party trackers, and no user accounts. Everything the app
 does happens **on your device**.
@@ -21,7 +21,7 @@ If you read nothing else, read this: **I do not collect any data about you.**
 
 ## Who I am
 
-OpenTranscript is developed and published by Warren Ahner as an individual,
+OpenScribe is developed and published by Warren Ahner as an individual,
 independent developer. I am the sole party responsible for the app. I am not a
 company, and I do not operate any servers that receive your data.
 
@@ -43,7 +43,7 @@ into the app.
 
 ## How the app works (on-device processing)
 
-OpenTranscript performs its work locally on your device. To provide its core
+OpenScribe performs its work locally on your device. To provide its core
 features, the app may request your permission to access the **microphone** so it
 can record and transcribe audio.
 
@@ -67,17 +67,25 @@ not by me, and are subject to Apple's privacy practices.
 
 ## Permissions the app may request
 
-The app may ask for the following iOS permission, which you can grant or deny at
+The app may ask for the following iOS permissions, which you can grant or deny at
 any time in **Settings → Privacy & Security**:
 
-- **Microphone** — used solely to record and transcribe audio on your device.
+- **Microphone** — used solely to record audio for transcription on your device.
+- **Speech Recognition** — used to convert your recorded audio into text. This
+  transcription is performed on your device, and your audio and transcripts are
+  not sent to me.
+- **Files / storage access** — used only if you choose to export a transcript or
+  recording. This lets the app save the file to a location you select (for
+  example, the Files app or another destination you pick). The app accesses
+  files only when you initiate an export and does not browse or transmit your
+  files otherwise.
 
 The app only requests permissions needed for features you choose to use, and it
 functions without sending any data off the device.
 
 ## Third-party services
 
-OpenTranscript does not use third-party advertising networks, analytics
+OpenScribe does not use third-party advertising networks, analytics
 providers, or data brokers. The app is distributed through Apple's App Store;
 Apple may collect certain information as part of operating the App Store (for
 example, download and purchase records) under
@@ -86,7 +94,7 @@ any personally identifying information from these processes.
 
 ## Children's privacy
 
-OpenTranscript does not collect any personal information from anyone, including
+OpenScribe does not collect any personal information from anyone, including
 children. The app does not knowingly collect data from children under 13 (or the
 equivalent minimum age in your jurisdiction) because it does not collect personal
 data from any user.
@@ -110,4 +118,4 @@ after changes are posted constitutes acceptance of the updated policy.
 If you have any questions about this Privacy Policy, you can reach me at:
 
 **Warren Ahner**
-Email: [nextdoorwarren@gmail.com](mailto:nextdoorwarren@gmail.com)
+Email: [nextdoorwarren+openscribe@gmail.com](mailto:nextdoorwarren+openscribe@gmail.com)
